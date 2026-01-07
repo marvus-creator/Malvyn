@@ -1,0 +1,5 @@
+{
+  "name": "Smart Finance Tracker",
+  "description": "A standalone personal finance management tool that tracks expenses and visualizes spending habits.",
+  "requestFramePermissions": []
+}
